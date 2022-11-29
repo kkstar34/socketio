@@ -1,5 +1,5 @@
 {
-	"authHost": "http://localhost",
+	"authHost": "https://socket.silamashop.com",
 	"authEndpoint": "/broadcasting/auth",
 	"clients": [],
 	"database": "redis",
@@ -30,3 +30,4 @@
 		"allowHeaders": ""
 	}
 }
+
